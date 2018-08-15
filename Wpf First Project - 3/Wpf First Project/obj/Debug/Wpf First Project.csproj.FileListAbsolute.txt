@@ -1,0 +1,71 @@
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project\Wpf First Project\bin\Debug\Wpf First Project.exe.config
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project\Wpf First Project\bin\Debug\Wpf First Project.exe
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project\Wpf First Project\bin\Debug\Wpf First Project.pdb
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project\Wpf First Project\obj\Debug\MainWindow.baml
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project\Wpf First Project\obj\Debug\MainWindow.g.cs
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project\Wpf First Project\obj\Debug\App.g.cs
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project\Wpf First Project\obj\Debug\Wpf First Project_MarkupCompile.cache
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project\Wpf First Project\obj\Debug\Wpf First Project.g.resources
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project\Wpf First Project\obj\Debug\Wpf_First_Project.Properties.Resources.resources
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project\Wpf First Project\obj\Debug\Wpf First Project.csproj.GenerateResource.Cache
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project\Wpf First Project\obj\Debug\Wpf First Project.exe
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project\Wpf First Project\obj\Debug\Wpf First Project.pdb
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project\Wpf First Project\obj\Debug\Wpf First Project.csprojResolveAssemblyReference.cache
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 2\Wpf First Project\bin\Debug\Wpf First Project.exe.config
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 2\Wpf First Project\bin\Debug\Wpf First Project.exe
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 2\Wpf First Project\bin\Debug\Wpf First Project.pdb
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 2\Wpf First Project\obj\Debug\MainWindow.baml
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 2\Wpf First Project\obj\Debug\MainWindow.g.cs
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 2\Wpf First Project\obj\Debug\App.g.cs
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 2\Wpf First Project\obj\Debug\Wpf First Project_MarkupCompile.cache
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 2\Wpf First Project\obj\Debug\Wpf First Project.g.resources
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 2\Wpf First Project\obj\Debug\Wpf_First_Project.Properties.Resources.resources
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 2\Wpf First Project\obj\Debug\Wpf First Project.csproj.GenerateResource.Cache
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 2\Wpf First Project\obj\Debug\Wpf First Project.csproj.CoreCompileInputs.cache
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 2\Wpf First Project\obj\Debug\Wpf First Project.exe
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 2\Wpf First Project\obj\Debug\Wpf First Project.pdb
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\MainWindow.baml
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\MainWindow.g.cs
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\App.g.cs
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\Wpf_First_Project.Properties.Resources.resources
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\Wpf First Project.csproj.GenerateResource.Cache
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\Wpf First Project.csproj.CoreCompileInputs.cache
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\reportForm.g.cs
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\reportForm.baml
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\bin\Debug\stdole.dll
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\bin\Debug\WindowsExplorer.dll
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\bin\Debug\WindowsExplorer.pdb
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\Wpf_First_Project.ExceptFolder.resources
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\bin\Debug\BIMTools.exe.config
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\bin\Debug\BIMTools.exe
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\bin\Debug\BIMTools.pdb
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\Wpf First Project.csprojResolveAssemblyReference.cache
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\BIMTools_MarkupCompile.cache
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\BIMTools_MarkupCompile.lref
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\BIMTools.g.resources
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\BIMTools.exe
+E:\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\BIMTools.pdb
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\bin\Debug\BIMTools.exe.config
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\bin\Debug\BIMTools.exe
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\bin\Debug\BIMTools.pdb
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\bin\Debug\WindowsExplorer.dll
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\bin\Debug\WindowsExplorer.pdb
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\MainWindow.g.cs
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\ReportForm.g.cs
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\App.g.cs
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\BIMTools_MarkupCompile.cache
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\BIMTools_MarkupCompile.lref
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\MainWindow.baml
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\ReportForm.baml
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\BIMTools.g.resources
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\Wpf_First_Project.Properties.Resources.resources
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\Wpf_First_Project.ExceptFolder.resources
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\Wpf First Project.csproj.GenerateResource.cache
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\Wpf First Project.csproj.CoreCompileInputs.cache
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\Wpf First Project.csproj.CopyComplete
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\BIMTools.exe
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\BIMTools.pdb
+E:\PHONG\PHONG E\PHONG\CODE TEST\C.Hanh\Wpf First Project - 3\Wpf First Project\obj\Debug\Wpf First Project.csprojResolveAssemblyReference.cache

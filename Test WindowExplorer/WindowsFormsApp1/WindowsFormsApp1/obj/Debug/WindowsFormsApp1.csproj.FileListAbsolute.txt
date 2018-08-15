@@ -1,0 +1,12 @@
+E:\PHONG\CODE TEST\C.Hanh\Test WindowExplorer\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\PHONG\CODE TEST\C.Hanh\Test WindowExplorer\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\PHONG\CODE TEST\C.Hanh\Test WindowExplorer\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\PHONG\CODE TEST\C.Hanh\Test WindowExplorer\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsExplorer.dll
+E:\PHONG\CODE TEST\C.Hanh\Test WindowExplorer\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsExplorer.pdb
+E:\PHONG\CODE TEST\C.Hanh\Test WindowExplorer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\PHONG\CODE TEST\C.Hanh\Test WindowExplorer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\PHONG\CODE TEST\C.Hanh\Test WindowExplorer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\PHONG\CODE TEST\C.Hanh\Test WindowExplorer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\PHONG\CODE TEST\C.Hanh\Test WindowExplorer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\PHONG\CODE TEST\C.Hanh\Test WindowExplorer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\PHONG\CODE TEST\C.Hanh\Test WindowExplorer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources

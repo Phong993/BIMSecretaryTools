@@ -1,0 +1,8 @@
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Explorer Tree\bin\Debug\WindowsExplorer.dll
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Explorer Tree\bin\Debug\WindowsExplorer.pdb
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Explorer Tree\obj\Debug\WindowsExplorer.ExplorerTree.resources
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Explorer Tree\obj\Debug\WindowsExplorer.frmOptions.resources
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Explorer Tree\obj\Debug\WindowsExplorer.csproj.GenerateResource.Cache
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Explorer Tree\obj\Debug\WindowsExplorer.csproj.CoreCompileInputs.cache
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Explorer Tree\obj\Debug\WindowsExplorer.dll
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Explorer Tree\obj\Debug\WindowsExplorer.pdb

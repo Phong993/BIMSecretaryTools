@@ -1,0 +1,13 @@
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Demo Project\bin\Debug\TestExplorer.exe
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Demo Project\bin\Debug\TestExplorer.pdb
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Demo Project\bin\Debug\stdole.dll
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Demo Project\bin\Debug\WindowsExplorer.dll
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Demo Project\bin\Debug\WindowsExplorer.pdb
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Demo Project\obj\Debug\TestExplorer.csprojResolveAssemblyReference.cache
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Demo Project\obj\Debug\TestExplorer.Form3.resources
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Demo Project\obj\Debug\TestExplorer.frmTest.resources
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Demo Project\obj\Debug\TestExplorer.withoutbars.resources
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Demo Project\obj\Debug\TestExplorer.csproj.GenerateResource.Cache
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Demo Project\obj\Debug\TestExplorer.csproj.CoreCompileInputs.cache
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Demo Project\obj\Debug\TestExplorer.exe
+E:\PHONG\CODE TEST\C.Hanh\ExplorerTreeSource\Demo Project\obj\Debug\TestExplorer.pdb
